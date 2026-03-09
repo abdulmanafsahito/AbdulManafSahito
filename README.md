@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Manaf
 
-🎓 **MS Computer Science** — Sukkur IBA University (CGPA: 3.45) | **Research Exchange** at Norwegian University of Science and Technology (NTNU), Norway  
+🎓 **MS Computer Science** — Sukkur IBA University (CGPA: 3.43) | **Research Exchange** at Norwegian University of Science and Technology (NTNU), Norway  
 🏆 **PM's Youth Laptop Scheme 2025** — Ranked **#1 in MS CS batch**, Sukkur IBA University  
 📍 Currently based in **Gjøvik, Norway** | Actively seeking **PhD opportunities** in AI, Computer Vision & Multimodal Learning
 
